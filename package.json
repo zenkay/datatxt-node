@@ -1,0 +1,18 @@
+{
+  "name": "datatxt",
+  "version": "0.0.1",
+  "description": "Node Package for Dandelion's dataTXT service",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zenkay/datatxt-node"
+  },
+  "keywords": [
+    "semantic analysis"
+  ],
+  "author": "Andrea Mostosi",
+  "license": "BSD"
+}
